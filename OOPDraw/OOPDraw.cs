@@ -39,8 +39,8 @@ namespace OOPDraw
                 shape.Draw(gr);
                 
             }
-            
 
+            Console.WriteLine("nerd");
         }
 
         private void Canvas_Click(object sender, EventArgs e)
